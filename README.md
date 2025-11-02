@@ -1,6 +1,5 @@
 # Hi 👋, I'm Tejas Wasnik
 
-### A passionate Python developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaswasnik&label=Profile views&color=0e75b6&style=flat" alt="tejaswasnik" /> </p>
 
