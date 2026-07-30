@@ -54,7 +54,8 @@
 #### 📸 PixelFeed
 A modern, production-grade, full-stack social media platform inspired by Instagram. Users can register, manage profiles, upload images to a cloud CDN, like posts, and follow/unfollow others to customize their social experience.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=react,sass,nodejs,mongodb" />
 
 </td>
 <td width="50%">
