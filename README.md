@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=I+build+production-ready+web+apps;React+%7C+JavaScript+%7C+Node.js+%7C+MongoDB;Currently+exploring+Framer+Motion+%E2%9C%A8" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=I+build+production-ready+web+apps;React+%7C+JavaScript+%7C+Node.js+%7C+MongoDB;Currently+exploring+Framer+Motion+%E2%9C%A8](https://camo.githubusercontent.com/f49ed917e9fdd03b918cc6150da5dbac4545a2a0812e9ed3762b17fa7c6a5a45/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f566972617469416b6972614e616e6468616e52656464792f706978656c2d6172742d726561646d652d676966734076312e302e302f676966732f68727a6e2f61643033366465652d326635362d346233612d383534662d6532616365313665383139642e676966)" alt="Typing SVG" />
 
 </div>
 
