@@ -63,7 +63,7 @@ A modern, production-grade, full-stack social media platform inspired by Instagr
 #### 🎧 Moodify
 An intelligent music streaming platform that uses facial emotion recognition to recommend songs tailored to your current mood — combining real-time emotion detection with personalized music curation.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,sass,nodejs,mongodb" />
 
 </td>
 </tr>
